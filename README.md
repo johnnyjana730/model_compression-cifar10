@@ -6,7 +6,7 @@ just simple implement by my own.
 
 model preview
 
-<img src="https://github.com/johnnyjana730/model_compression-cifar10/blob/master/螢幕快照%202018-09-04%20下午6.06.24.png" width="800">
+<img src="https://github.com/johnnyjana730/model_compression-cifar10/blob/master/螢幕快照%202018-09-04%20下午6.06.24.png" width="600">
 
 finetune dense1 and dense2
 
